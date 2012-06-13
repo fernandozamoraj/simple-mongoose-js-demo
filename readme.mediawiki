@@ -13,3 +13,8 @@ This is not a fully extensive demo, not even close, to what you will really need
 *demonstrates saving data with mongoose
 *demonstrates retrieving data with mongoose
 *demonstrates displaying the data
+
+===Additional Information===
+I have written a blog post on this particular project.  Please take a look at it to get a better picture of what this project really entails.
+
+<a href="http://fernandozamorajimenez.blogspot.com/2012/06/simple-mongoosejs-example.html">A Simple MongooseJs Example</a>
