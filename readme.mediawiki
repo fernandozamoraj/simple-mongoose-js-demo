@@ -1,0 +1,15 @@
+=Simple Example Using Mongoose for Node.js=
+
+===What this is===
+
+This is a simple example that demonstrates how to use mongoose in the most simple watered down manner as possible.  The objective of this demoe is to get you quickly started using mondoDb with your node.js project.
+
+
+===What this is not===
+This is not a fully extensive demo, not even close, to what you will really need to do to use mongoose.
+
+===List of concepts===
+*demonstrates routes
+*demonstrates saving data with mongoose
+*demonstrates retrieving data with mongoose
+*demonstrates displaying the data
